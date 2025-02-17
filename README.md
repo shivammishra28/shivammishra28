@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @shivammishra28
-- 👀 I’m interested in React Development
+- 👀 I’m interested in MERN Stack Development
 - 🌱 I’m currently learning React Native
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me on E-mail
