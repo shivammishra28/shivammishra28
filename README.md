@@ -28,7 +28,7 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shivaammishra28&show_icons=true&theme=github_dark" alt="Shivam's GitHub Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shivammishra28&show_icons=true&theme=github_dark" alt="Shivam's GitHub Stats" height="180" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivammishra28&theme=dark" height="180" />
 </p>
 
