@@ -12,7 +12,7 @@
 - 🔭 I’m currently working on: **Full Stack MERN Projects**
 - 🌱 I’m learning: **Advanced React Patterns and System Design**
 - 💬 Ask me about: `React`, `Tailwind`, `Node.js`, `MongoDB`, `Git`, `REST APIs`
-- 📫 Reach me at: **shivam.email@example.com**
+- 📫 Reach me at: **shivammishra6801@gmail.com**
 - 🧠 Fun fact: I love debugging and making UIs pixel-perfect.
 
 ---
