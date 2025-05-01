@@ -51,6 +51,9 @@
 🔹 **[Blogify](https://github.com/shivammishra28/blogify)**  
 `Node.js · Express · EJS` | Blogging platform with rich text support.
 
+🔹 **[Password-Manager](https://github.com/shivammishra28/password-manager)**  
+`React.js , TailwindCSS` | Password-Manager- Save website URLs, usernames, and passwords.
+
 ---
 
 ### 📈 GitHub Stats
