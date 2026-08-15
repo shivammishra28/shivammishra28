@@ -94,10 +94,10 @@
 ### 🌐 Let’s Connect!
 
 <p align="left">
-  <a href="https://linkedin.com/in/shivam-mishra-b409a8281" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" /></a>
+  <!-- <a href="https://linkedin.com/in/shivam-mishra-b409a8281" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" /></a>
   <a href="https://twitter.com/shivammishra18_" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-blue?logo=twitter&logoColor=white" /></a>
   <a href="mailto:shivammishra6801@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white" /></a>
-  <a href="https://portfolio-y2q4.vercel.app/" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=white" /></a>
+  <a href="https://portfolio-y2q4.vercel.app/" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=white" /></a> -->
 </p>
 
 ---
